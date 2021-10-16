@@ -1,0 +1,13 @@
+						Webseite Umsetzung und geplante Pläne
+
+
+-Startseite (Umprogrammieren) Startseite aufgebaut mit einem Media Player der Trailer abspielt und automatisch das 
+Video wechselt (Loop,Infinite)
+
+-Startseite soll auch eine Automatische News funktion bekommen. (Alle News werden in Echtzeit angezeigt,sowie Spielfehler und Neuerscheinungen)
+
+-Web Player mit Wöchentlich neuen Playlists.
+
+-Freunde und Chat-System - mit freunden chatten,hinzufügen,blocken und löschen.
+
+-Store - Neue Spiele - Vorbesteller sowie auch Add-ons,Gutschein-Karten und DLC-Packs.
