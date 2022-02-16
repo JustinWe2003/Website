@@ -1,0 +1,16 @@
+----WEBSEITE----
+
+Mitarbeiter: Anonymous, Sean Luca Krüger & "A"
+
+Aufgabe: Die Webseite soll ein neues Interface haben sprich Startseite wo man Neuigkeiten durchlesen kann Patch Notes unsere Spiele etc.
+Konto Statistiken die am ende von der SQL Datenbank abgerufen wird. 
+was geplant ist, ist ein Shop System, aber das kann warten.
+
+ansonsten erstmal nen neues Overlay von der Webseite mit paar Animationen wie, wenn du über Konto gehst das dort nh Border nach unten kommt
+wo man jegliche sachen auswählen kann.
+Konten blockieren, Freunde hinzufügen, Freunde löschen und Chatting-System.
+
+Viel Glück! 
+bei fragen, meldet euch.
+
+LG Justin 
